@@ -16,6 +16,8 @@ import speaker_icon from './speaker.png'
 import volume_icon from './volume.png'
 import mini_icon from './mini.png'
 import zoom_icon from './zoom.png'
+import arrow_right from './arrowright.png'
+import arrow_left from './arrowleft.png'
 
 export const assets={
     home_icon,
@@ -35,6 +37,8 @@ export const assets={
     volume_icon,
     mini_icon,
     zoom_icon,
+    arrow_right,
+    arrow_left,
 }
 
 export const albumsdata=[
