@@ -18,6 +18,8 @@ import mini_icon from './mini.png'
 import zoom_icon from './zoom.png'
 import arrow_right from './arrowright.png'
 import arrow_left from './arrowleft.png'
+import im8 from './traditional-japan.jpg'
+import im9 from './japan-piano.webp'
 
 export const assets={
     home_icon,
@@ -45,14 +47,14 @@ export const albumsdata=[
     {
         id:0,
         name:"Top 50 Global",
-        //image: im8,
+        image: im8,
         desc:"Your weekly update of the most played tracks",
         bgcolor:"#2a4365"
     },
     {
         id:1,
         name:"Top 50 India",
-        //image:im9,
+        image:im9,
         desc:"Your weekly update of the most played tracks",
         bgcolor:"#22543d"
         
