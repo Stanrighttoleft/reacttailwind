@@ -20,6 +20,10 @@ import arrow_right from './arrowright.png'
 import arrow_left from './arrowleft.png'
 import im8 from './traditional-japan.jpg'
 import im9 from './japan-piano.webp'
+import im10 from './japan-soft.jpeg'
+import im11 from './japan-relax.jpg'
+import im12 from './japan-party.jpg'
+import im13 from './asia-music.webp'
 
 export const assets={
     home_icon,
@@ -46,18 +50,46 @@ export const assets={
 export const albumsdata=[
     {
         id:0,
-        name:"Top 50 Global",
+        name:"Traditional Japan",
         image: im8,
-        desc:"Your weekly update of the most played tracks",
+        desc:"Traditonal Japan made by Prettysleepy",
         bgcolor:"#2a4365"
     },
     {
         id:1,
-        name:"Top 50 India",
+        name:"Japan Piano",
         image:im9,
-        desc:"Your weekly update of the most played tracks",
+        desc:"Japan piano made by pianocafe_kumi",
         bgcolor:"#22543d"
         
+    },
+    {
+        id:2,
+        name:"Japan Soft",
+        image:im10,
+        desc:"Japan soft music",
+        bgcolor:"#742a2a"
+    },
+    {
+        id:3,
+        name:"Japan relax",
+        image:im11,
+        desc:"relax music of japan made by NourishedByMusic",
+        bgcolor:"#742a2a"
+    },
+    {
+        id:4,
+        name:"Japan party",
+        image:im12,
+        desc:"classic japan song by theorienvibes",
+        bgcolor:"#234e52",
+    },
+    {
+        id:5,
+        name:"Asia music",
+        image:im13,
+        desc:"Asia Music made by HitsLab",
+        bgcolor:"#744210",
     },
 ]
 
