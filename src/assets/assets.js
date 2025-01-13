@@ -24,6 +24,8 @@ import im10 from './japan-soft.jpeg'
 import im11 from './japan-relax.jpg'
 import im12 from './japan-party.jpg'
 import im13 from './asia-music.webp'
+import img2 from './sad-japan.jpg'
+import song2 from './sad-japan.mp3'
 
 export const assets={
     home_icon,
@@ -101,5 +103,14 @@ export const songsdata=[
         //file:song1,
         desc:"Put a smile on your face with these happy tunes",
         duration:"3:00"
+    },
+    {
+        id:1,
+        name:"sad Japan Piano",
+        image:img2,
+        //file:song2,
+        desc:"flower, spring, made by welcomeno",
+        duration:"3.47",
+
     },
 ]
