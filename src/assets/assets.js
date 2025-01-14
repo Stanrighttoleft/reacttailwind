@@ -26,6 +26,14 @@ import im12 from './japan-party.jpg'
 import im13 from './asia-music.webp'
 import img2 from './sad-japan.jpg'
 import song2 from './sad-japan.mp3'
+import img3 from './piano-jazz.jpg'
+import song3 from './piano-jazz.mp3'
+import img4 from './piano-style.jpg'
+import song4 from './piano-style.mp3'
+import img5 from './piano-dark.jpg'
+import song5 from './piano-dark.mp3'
+import img6 from './kyoto-river.jpg'
+import song6 from './kyoto-river.mp3'
 
 export const assets={
     home_icon,
@@ -112,5 +120,38 @@ export const songsdata=[
         desc:"flower, spring, made by welcomeno",
         duration:"3.47",
 
+    },
+    {
+        id:2,
+        name:"Jazz pop piano",
+        image:img3,
+        //file:song3,
+        desc:"jazzy pop piano japan city by welcomeno",
+        duration:"1.47",
+
+    },
+    {
+        id:3,
+        name:"Japan style piano",
+        image:img4,
+        //file:song4,
+        desc:"Japan stye pianom, spring by welcomeno",
+        duration:"1.28",
+    },
+    {
+        id:4,
+        name:"Japan Dark piano",
+        image:img5,
+        //file:song5,
+        desc:"Japan dark piano old by wlecomeno",
+        duration:"1.29",
+    },
+    {
+        id:5,
+        name:"Kyoto River",
+        image:img6,
+        //file:song6,
+        desc:"japna kyoto river-by fassounds",
+        duration:"1.13",
     },
 ]
