@@ -33,7 +33,7 @@ const Player = () => {
             <img className='w-6' src={assets.queue_icon} alt='queue'/>
             <img className='w-6' src={assets.speaker_icon} alt='speaker'/>
             <img className='w-6' src={assets.volume_icon} alt='volume'/>
-            <div className="w-20 bg-slate-50 h-1 rounded">
+            <div className="w-19 bg-slate-50 h-1 rounded">
                 
             </div>
             <img className='w-6' src={assets.mini_icon} alt='mini'/>
